@@ -1,0 +1,105 @@
+-debug
+-target:library
+-nowarn:0169
+-out:Temp/Assembly-CSharp-Editor.dll
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEngine.dll"
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.dll"
+-r:Library/ScriptAssemblies/Assembly-CSharp-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll
+-r:Library/ScriptAssemblies/Assembly-CSharp.dll
+-r:Library/ScriptAssemblies/Assembly-UnityScript.dll
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Managed/UnityEditor.Graphs.dll"
+-define:UNITY_4_5_4
+-define:UNITY_4_5
+-define:UNITY_WEBPLAYER
+-define:WEBPLUG
+-define:ENABLE_MICROPHONE
+-define:ENABLE_TEXTUREID_MAP
+-define:ENABLE_UNITYEVENTS
+-define:ENABLE_NEW_HIERARCHY 
+-define:ENABLE_AUDIO_FMOD
+-define:ENABLE_MONO
+-define:ENABLE_TERRAIN
+-define:ENABLE_SUBSTANCE
+-define:ENABLE_GENERICS
+-define:INCLUDE_WP8SUPPORT
+-define:ENABLE_MOVIES
+-define:ENABLE_WWW
+-define:ENABLE_IMAGEEFFECTS
+-define:INCLUDE_WP_BLUE_SUPPORT
+-define:ENABLE_WEBCAM
+-define:INCLUDE_METROSUPPORT
+-define:RENDER_SOFTWARE_CURSOR
+-define:ENABLE_NETWORK
+-define:ENABLE_PHYSICS
+-define:ENABLE_CACHING
+-define:ENABLE_CLOTH
+-define:ENABLE_2D_PHYSICS
+-define:ENABLE_SHADOWS
+-define:ENABLE_AUDIO
+-define:ENABLE_NAVMESH_CARVING
+-define:ENABLE_DUCK_TYPING
+-define:ENABLE_SINGLE_INSTANCE_BUILD_SETTING
+-define:ENABLE_PROFILER
+-define:UNITY_EDITOR
+-define:UNITY_EDITOR_WIN
+-define:UNITY_TEAM_LICENSE
+-define:UNITY_PRO_LICENSE
+Assets/AdventureCreator/Scripts/ActionList/Editor/ActionListAssetEditor.cs
+Assets/AdventureCreator/Scripts/ActionList/Editor/ActionListEditor.cs
+Assets/AdventureCreator/Scripts/ActionList/Editor/ActionListEditorWindow.cs
+Assets/AdventureCreator/Scripts/ActionList/Editor/EditorZoomArea.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/FirstPersonCameraEditor.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/GameCamera25DEditor.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/GameCamera2DEditor.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/GameCameraAnimatedEditor.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/GameCameraEditor.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/GameCameraThirdPersonEditor.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/MainCameraEditor.cs
+Assets/AdventureCreator/Scripts/Camera/Editor/_CameraEditor.cs
+Assets/AdventureCreator/Scripts/Character/Editor/CharEditor.cs
+Assets/AdventureCreator/Scripts/Character/Editor/NPCEditor.cs
+Assets/AdventureCreator/Scripts/Character/Editor/PlayerEditor.cs
+Assets/AdventureCreator/Scripts/Inventory/Editor/InvActionListAsset.cs
+Assets/AdventureCreator/Scripts/Inventory/Editor/InvActionListEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/AC_TriggerEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/ArrowPromptEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/ContainerEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/ConversationEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/ConversationEditorWindow.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/CutsceneEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/DialogueOptionEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/HotspotEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/InteractionEditor.cs
+Assets/AdventureCreator/Scripts/Logic/Editor/SoundEditor.cs
+Assets/AdventureCreator/Scripts/Managers/Editor/AdventureCreator.cs
+Assets/AdventureCreator/Scripts/Managers/Editor/ManagerPackageAsset.cs
+Assets/AdventureCreator/Scripts/Managers/Editor/ManagerPackageEditor.cs
+Assets/AdventureCreator/Scripts/Managers/Editor/NewGameWizardWindow.cs
+Assets/AdventureCreator/Scripts/Managers/Editor/ToolbarLinks.cs
+Assets/AdventureCreator/Scripts/Menu/Editor/MenuActionListAsset.cs
+Assets/AdventureCreator/Scripts/Menu/Editor/MenuActionListEditor.cs
+Assets/AdventureCreator/Scripts/Moveable/Editor/DragBaseEditor.cs
+Assets/AdventureCreator/Scripts/Moveable/Editor/DragTrackEditor.cs
+Assets/AdventureCreator/Scripts/Moveable/Editor/DragTrack_CurvedEditor.cs
+Assets/AdventureCreator/Scripts/Moveable/Editor/DragTrack_HingeEditor.cs
+Assets/AdventureCreator/Scripts/Moveable/Editor/DragTrack_StraightEditor.cs
+Assets/AdventureCreator/Scripts/Moveable/Editor/Moveable_DragEditor.cs
+Assets/AdventureCreator/Scripts/Moveable/Editor/Moveable_PickUpEditor.cs
+Assets/AdventureCreator/Scripts/Navigation/Editor/FollowSortingMapEditor.cs
+Assets/AdventureCreator/Scripts/Navigation/Editor/NavigationMeshEditor.cs
+Assets/AdventureCreator/Scripts/Navigation/Editor/PathsEditor.cs
+Assets/AdventureCreator/Scripts/Navigation/Editor/SortingMapEditor.cs
+Assets/AdventureCreator/Scripts/Object/Editor/MenuLinkEditor.cs
+Assets/AdventureCreator/Scripts/Object/Editor/Parallax2DEditor.cs
+"Assets/AdventureCreator/Scripts/Save system/Editor/ConstantIDEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberColliderEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberConversationEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberHotspotEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberMoveableEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberNPCEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberTransformEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberTriggerEditor.cs"
+"Assets/AdventureCreator/Scripts/Save system/Editor/RememberVisibilityEditor.cs"
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Runtime.Serialization.dll"
+-r:"D:/Program Files (x86)/Unity/Editor/Data/Mono\lib/mono/2.0\System.Xml.Linq.dll"
