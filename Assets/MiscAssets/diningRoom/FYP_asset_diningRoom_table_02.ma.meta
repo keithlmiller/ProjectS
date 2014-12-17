@@ -2,7 +2,34 @@ fileFormatVersion: 2
 guid: d4cfceec50c7c7b4e8ea01cc35e5cd0f
 ModelImporter:
   serializedVersion: 16
-  fileIDToRecycleName: {}
+  fileIDToRecycleName:
+    100000: camera1
+    100002: directionalLight1
+    100004: directionalLight2
+    100006: directionalLight3
+    100008: distanceDimension1
+    100010: //RootNode
+    100012: locator1
+    100014: locator2
+    100016: table
+    100018: table_OBJ
+    400000: camera1
+    400002: directionalLight1
+    400004: directionalLight2
+    400006: directionalLight3
+    400008: distanceDimension1
+    400010: //RootNode
+    400012: locator1
+    400014: locator2
+    400016: table
+    400018: table_OBJ
+    2300000: table
+    2300002: table_OBJ
+    3300000: table
+    3300002: table_OBJ
+    4300000: table
+    4300002: table_OBJ
+    9500000: //RootNode
   materials:
     importMaterials: 1
     materialName: 0
